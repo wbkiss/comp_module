@@ -1,4 +1,6 @@
 @echo off
+del dist /Q
+mkdir dist
 python process_init.py
 python process_global_variables.py
 python process_strings.py
@@ -29,9 +31,10 @@ python process_dialogs.py
 python process_global_variables_unused.py
 python process_postfx.py
 @del *.pyc
+xcopy "CoMP files"\* dist\ /E /Y
 echo.
 echo ______________________________
 echo.
-echo Script processing has ended.
+echo Script processing has ended. The ready-to-deploy module is in 'dist/'
 echo Press any key to exit. . .
 pause>nul
