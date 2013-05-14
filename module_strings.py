@@ -2418,13 +2418,33 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_13", "Random Plains (Large)"),
   ("multi_scene_14", "Random Steppe (Medium)"),
   ("multi_scene_15", "Random Steppe (Large)"),
-  #ENL - Begin
+  #CoMP - Begin
+  # ENL maps
   ("multi_scene_enl_dijon", "Dijon"),
   ("multi_scene_enl_sandiboush", "San'di'boush"),
   ("multi_scene_enl_vendetta", "Vendetta"),
   ("multi_scene_enl_frostybattle", "Frosty Battle"),
   ("multi_scene_enl_reveranvillage", "Reveran Village"),
   ("multi_scene_enl_snowyhamlet", "Snowy Hamlet"),
+  # CoMP maps
+  # Stable
+  ("multi_scene_solace", "Solace (Mixed, Stable) by Romans"),
+  ("multi_scene_dry_valley", "Dry Valley (Mixed, Stable) by Lord Rich"),
+  ("multi_scene_verloren", "Verloren (Closed, Stable) by Lord Rich"),
+  # Testing
+  ("multi_scene_open_plain", "open Plain (Open, Testing) by KissMyAxe"),
+  ("multi_scene_oasis", "Oasis (Open, Testing) by Fehnor"),
+  # Unstable
+  ("multi_scene_swamp", "Swamp (Open, Unstable) by KissMyAxe"),
+  ("multi_scene_delta", "Delta (Open, Unstable) by Vendigr"),
+  ("multi_scene_liberty", "Swamp (Mixed, Unstable) by Romans"),
+  ("multi_scene_snoops_exile_island", "Snoop's Exile Island (Mixed, Unstable) by Slytacular and Zaffa"),
+  ("multi_scene_bestopen", "Best Open Map (Open, Unstable) by Sotamursu"),
+  ("multi_scene_haranaer", "Haranaer (Open, Unstable) by Sotamurus"),
+  ("multi_scene_wold", "The Wold (Open, Unstable) by Sotamurus"),
+  ("multi_scene_urabhaya", "Urabhaya (Closed, Unstable) by Sotamursu"),
+  ("multi_scene_rock_port", "Rock Port (Mixed, Unstable) by Romans"),
+   # Custom maps
   ("multi_scene_custom_1", "Custom_Map_1"),
   ("multi_scene_custom_2", "Custom_Map_2"),
   ("multi_scene_custom_3", "Custom_Map_3"),
