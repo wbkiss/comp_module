@@ -2439,7 +2439,6 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_delta", "Delta (Open, Unstable) by Vendigr"),
   ("multi_scene_liberty", "Liberty (Mixed, Unstable) by Romans"),
   ("multi_scene_snoops_exile_island", "Snoop's Exile Island (Mixed, Unstable) by Slytacular and Zaffa"),
-  ("multi_scene_bestopen", "Best Open Map (Open, Unstable) by Sotamursu"),
   ("multi_scene_haranaer", "Haranaer (Open, Unstable) by Sotamursu"),
   ("multi_scene_wold", "The Wold (Open, Unstable) by Sotamursu"),
   ("multi_scene_urabhaya", "Urabhaya (Closed, Unstable) by Sotamursu"),

@@ -1253,8 +1253,6 @@ scenes = [
     [],[], "outer_terrain_beach"), # Liberty (mixed/closed) by Romans
   ("multi_scene_snoops_exile_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000006f5bd00004ff5000004000000631b",
     [],[], "outer_terrain_plain"), # Snoop's Exile Island (mixed) by Slytacular and Zaffa
-  ("multi_scene_bestopen",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300416a600035cd600007ee80000012100003fbc",
-    [],[], "outer_terrain_plain"), # BestOpenMap (open) by Sotamursu
   ("multi_scene_haranaer",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000400032320003c0f300001f9e000011180000031c",
     [],[], "outer_terrain_desert"), # Haranaer (open) by Sotamursu
   ("multi_scene_wold",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000012002a0b20004992700006e54000007fe00001fd2",
