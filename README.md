@@ -18,3 +18,4 @@ Current order of CoMP maps (ENL mod 3.2.0 correspondence)
 * The Wold (Open, Unstable) -- Custom Map 11
 * Urabhaya (Closed, Unstable) -- Custom Map 12
 * Rock Port (Mixed, Unstable) -- Custom Map 13
+* River Valley (Mixed, Unstable) -- Custom Map 14

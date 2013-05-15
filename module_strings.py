@@ -2443,6 +2443,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_wold", "The Wold (Open, Unstable) by Sotamursu"),
   ("multi_scene_urabhaya", "Urabhaya (Closed, Unstable) by Sotamursu"),
   ("multi_scene_rock_port", "Rock Port (Mixed, Unstable) by Romans"),
+  ("multi_scene_river_valley", "River Valley (Mixed, Unstable) by Vendigr"),
    # Custom maps
   ("multi_scene_custom_1", "Custom_Map_1"),
   ("multi_scene_custom_2", "Custom_Map_2"),

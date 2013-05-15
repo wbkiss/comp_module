@@ -1261,6 +1261,8 @@ scenes = [
     [],[], "outer_terrain_plain"), # Urabhaya (closed) by Sotamursu
   ("multi_scene_rock_port",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000032224e0a800435130000794a0000305500001978",
     [],[], "outer_terrain_plain"), # Rock Port (mixed) by Romans
+  ("multi_scene_river_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300c93c800033cce000020d5000065c70000071b",
+    [],[], "outer_terrain_plain"), # River Valley (mixed) by Vendigr
   # Custom maps
     
   ("multi_scene_custom_1",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
