@@ -1242,6 +1242,8 @@ scenes = [
     [],[], "outer_terrain_plain"), # Open Plain by KissMyAxe
   ("multi_scene_oasis",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001d00a9cba000651940000cf3f0000818300001f20",
     [],[],"outer_terrain_desert"), # Oasis by Fehnor
+  ("multi_scene_snoops_exile_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000006f5bd00004ff5000004000000631b",
+    [],[], "outer_terrain_plain"), # Snoop's Exile Island (mixed) by Slytacular and Zaffa
   
   # CoMP "unstable" maps
   
@@ -1251,8 +1253,6 @@ scenes = [
     [],[],"outer_terrain_beach"), # Delta by Vendigr
   ("multi_scene_liberty",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b0000500000350d600005d4600003c3100006cf6",
     [],[], "outer_terrain_beach"), # Liberty (mixed/closed) by Romans
-  ("multi_scene_snoops_exile_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000006f5bd00004ff5000004000000631b",
-    [],[], "outer_terrain_plain"), # Snoop's Exile Island (mixed) by Slytacular and Zaffa
   ("multi_scene_haranaer",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000400032320003c0f300001f9e000011180000031c",
     [],[], "outer_terrain_desert"), # Haranaer (open) by Sotamursu
   ("multi_scene_wold",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000012002a0b20004992700006e54000007fe00001fd2",

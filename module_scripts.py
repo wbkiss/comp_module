@@ -13077,11 +13077,11 @@ scripts = [
 		# Testing
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 25, "scn_multi_scene_open_plain"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 26, "scn_multi_scene_oasis"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_snoops_exile_island"),
 		# Unstable
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_delta"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_liberty"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_snoops_exile_island"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_delta"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_liberty"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 31, "scn_multi_scene_haranaer"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 32, "scn_multi_scene_wold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 33, "scn_multi_scene_urabhaya"),
@@ -13144,11 +13144,11 @@ scripts = [
 		# Testing
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 25, "scn_multi_scene_open_plain"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 26, "scn_multi_scene_oasis"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_snoops_exile_island"),
 		# Unstable
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_delta"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_liberty"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_snoops_exile_island"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_delta"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_liberty"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 31, "scn_multi_scene_haranaer"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 32, "scn_multi_scene_wold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 33, "scn_multi_scene_urabhaya"),
@@ -13204,11 +13204,11 @@ scripts = [
 		# Testing
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 25, "scn_multi_scene_open_plain"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 26, "scn_multi_scene_oasis"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_snoops_exile_island"),
 		# Unstable
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_delta"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_liberty"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_snoops_exile_island"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_delta"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_liberty"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 31, "scn_multi_scene_haranaer"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 32, "scn_multi_scene_wold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 33, "scn_multi_scene_urabhaya"),
@@ -13271,11 +13271,11 @@ scripts = [
 		# Testing
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 25, "scn_multi_scene_open_plain"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 26, "scn_multi_scene_oasis"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_snoops_exile_island"),
 		# Unstable
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 27, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_delta"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_liberty"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_snoops_exile_island"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 28, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 29, "scn_multi_scene_delta"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 30, "scn_multi_scene_liberty"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 31, "scn_multi_scene_haranaer"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 32, "scn_multi_scene_wold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 33, "scn_multi_scene_urabhaya"),
