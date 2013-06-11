@@ -1263,50 +1263,13 @@ scenes = [
     [],[], "outer_terrain_plain"), # Rock Port (mixed) by Romans
   ("multi_scene_river_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300c93c800033cce000020d5000065c70000071b",
     [],[], "outer_terrain_plain"), # River Valley (mixed) by Vendigr
-  # Custom maps
-    
-  ("multi_scene_custom_1",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_2",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_3",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_4",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_5",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_6",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_7",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_8",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_9",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_10",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_11",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_12",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_13",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_14",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_15",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_16",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_17",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_18",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_19",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_custom_20",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[],"outer_terrain_plain"),
-  
-  #ENL - End
+  ("multi_scene_shariz_village",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003165588c0004c92d0000538c000052de000043b4",
+    [],[], "outer_terrain_steppe"), # Shariz Village (closed) by Maynd
+  ("multi_scene_old_rhodok_stronghold",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b000182a000408fe0000666d00007db9000015ee",
+    [],[], "outer_terrain_plain"), # Old Rhodok Stronghold (undetermined) by Erminas
+  ("multi_scene_abbey",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000a002191b0006a5a5000071310000576d00002a84",
+    [],[], "outer_terrain_steppe"), # The Abbey (undetermined) by Erminas
+  #CoMP-end
 
   ("multiplayer_maps_end",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
     [],[],"outer_terrain_plain"),

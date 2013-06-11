@@ -19,3 +19,6 @@ Current order of CoMP maps (ENL mod 3.2.0 correspondence)
 * Urabhaya (Closed, Unstable) -- Custom Map 12
 * Rock Port (Mixed, Unstable) -- Custom Map 13
 * River Valley (Mixed, Unstable) -- Custom Map 14
+* Shariz Village (Closed, Unstable) -- Custom Map 15
+* Old Rhodok Stronghold (Closed, Unstable) -- Custom Map 16
+* The Abbey (Mixed, Unstable) -- Custom Map 17
