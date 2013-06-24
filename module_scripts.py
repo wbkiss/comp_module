@@ -13090,8 +13090,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 36, "scn_multi_scene_shariz_village"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_old_rhodok_stronghold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
         #CoMP - End
-        (assign, ":num_maps", 39), #CoMP
+        (assign, ":num_maps", 40), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_battle),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13139,8 +13140,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 36, "scn_multi_scene_shariz_village"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_old_rhodok_stronghold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
         #CoMP - End
-        (assign, ":num_maps", 39), #CoMP
+        (assign, ":num_maps", 40), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_destroy),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13181,8 +13183,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 36, "scn_multi_scene_shariz_village"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_old_rhodok_stronghold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
         #CoMP - End
-        (assign, ":num_maps", 39), #CoMP
+        (assign, ":num_maps", 40), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_capture_the_flag),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13230,8 +13233,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 36, "scn_multi_scene_shariz_village"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_old_rhodok_stronghold"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
         #CoMP - End
-        (assign, ":num_maps", 39), #CoMP
+        (assign, ":num_maps", 40), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_headquarters),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),

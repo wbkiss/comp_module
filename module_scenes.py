@@ -1266,9 +1266,11 @@ scenes = [
   ("multi_scene_shariz_village",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003165588c0004c92d0000538c000052de000043b4",
     [],[], "outer_terrain_steppe"), # Shariz Village (closed) by Maynd
   ("multi_scene_old_rhodok_stronghold",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b000182a000408fe0000666d00007db9000015ee",
-    [],[], "outer_terrain_plain"), # Old Rhodok Stronghold (undetermined) by Erminas
+    [],[], "outer_terrain_plain"), # Old Rhodok Stronghold (closed) by Erminas
   ("multi_scene_abbey",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000a002191b0006a5a5000071310000576d00002a84",
-    [],[], "outer_terrain_steppe"), # The Abbey (undetermined) by Erminas
+    [],[], "outer_terrain_steppe"), # The Abbey (mixed) by Erminas
+  ("multi_scene_low_born",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003000d732000350e4000047ce00004ba700005d54",
+    [],[], "outer_terrain_plain"), # Low Born (?) by Romans	
   #CoMP-end
 
   ("multiplayer_maps_end",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
