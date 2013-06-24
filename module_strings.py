@@ -2447,7 +2447,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_shariz_village", "Shariz Village (Closed, Unstable) by Maynd"),
   ("multi_scene_old_rhodok_stronghold", "Old Rhodok Stronghold (Closed, Unstable) by Erminas"),
   ("multi_scene_abbey", "The Abbey (Mixed, Unstable) by Erminas"),
-  ("multi_scene_low_born", "Low Born (?, Unstable) by Romans"),
+  ("multi_scene_low_born", "Low Born (Closed, Unstable) by Romans"),
    # Custom maps
   ("multi_scene_custom_1", "Custom_Map_1"),
   ("multi_scene_custom_2", "Custom_Map_2"),

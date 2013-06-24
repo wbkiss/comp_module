@@ -22,4 +22,4 @@ Current order of CoMP maps (ENL mod 3.2.0 correspondence)
 * Shariz Village (Closed, Unstable) -- Custom Map 15
 * Old Rhodok Stronghold (Closed, Unstable) -- Custom Map 16
 * The Abbey (Mixed, Unstable) -- Custom Map 17
-* Low Born (?, Unstable) -- Custom Map 18
+* Low Born (Closed, Unstable) -- Custom Map 18
