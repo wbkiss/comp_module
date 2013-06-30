@@ -1247,7 +1247,7 @@ scenes = [
   
   # CoMP "unstable" maps
   
-  ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000001394018dd000649920004406900002920000056d7",
+  ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",
     [],[], "outer_terrain_plain"), # Swamp by KissMyAxe
   ("multi_scene_delta",sf_generate,"none", "none", (0,0), (240,240),-0.5,"0x0000000130000285000641900000793b0000104d0000fb64",
     [],[],"outer_terrain_beach"), # Delta by Vendigr
