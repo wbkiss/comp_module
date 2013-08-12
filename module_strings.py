@@ -2448,7 +2448,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_old_rhodok_stronghold", "Old Rhodok Stronghold (Closed, Unstable) by Erminas"),
   ("multi_scene_abbey", "The Abbey (Mixed, Unstable) by Erminas"),
   ("multi_scene_low_born", "Low Born (Closed, Unstable) by Romans"),
-  ("multi_scene_quamire", "Quamire(Open, Unstable) by Madoc Comadrin"),
+  ("multi_scene_quagmire", "Quagmire(Open, Unstable) by Madoc Comadrin"),
    # Custom maps
   ("multi_scene_custom_1", "Custom_Map_1"),
   ("multi_scene_custom_2", "Custom_Map_2"),

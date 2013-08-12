@@ -1271,7 +1271,7 @@ scenes = [
     [],[], "outer_terrain_steppe"), # The Abbey (mixed) by Erminas
   ("multi_scene_low_born",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003000d732000350e4000047ce00004ba700005d54",
     [],[], "outer_terrain_plain"), # Low Born (Closed) by Romans
-  ("multi_scene_quamire",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005000003d8f200007f6d00000fcf00004a0a",
+  ("multi_scene_quagmire",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005000003d8f200007f6d00000fcf00004a0a",
     [],[],"outer_terrain_plain"), # Quamire (Open) by Madoc Comadrin
   #CoMP-end
 
