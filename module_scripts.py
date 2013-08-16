@@ -13092,8 +13092,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_quagmire"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_x"),
         #CoMP - End
-        (assign, ":num_maps", 41), #CoMP
+        (assign, ":num_maps", 42), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_battle),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13143,8 +13144,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_quagmire"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_x"),
         #CoMP - End
-        (assign, ":num_maps", 41), #CoMP
+        (assign, ":num_maps", 42), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_destroy),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13187,8 +13189,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_quagmire"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_x"),
         #CoMP - End
-        (assign, ":num_maps", 41), #CoMP
+        (assign, ":num_maps", 42), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_capture_the_flag),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13238,8 +13241,9 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_abbey"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_low_born"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_quagmire"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_x"),
         #CoMP - End
-        (assign, ":num_maps", 41), #CoMP
+        (assign, ":num_maps", 42), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_headquarters),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),

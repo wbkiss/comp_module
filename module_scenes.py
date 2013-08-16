@@ -1273,6 +1273,8 @@ scenes = [
     [],[], "outer_terrain_plain"), # Low Born (Closed) by Romans
   ("multi_scene_quagmire",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005000003d8f200007f6d00000fcf00004a0a",
     [],[],"outer_terrain_plain"), # Quamire (Open) by Madoc Comadrin
+  ("multi_scene_x",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
   #CoMP-end
 
   ("multiplayer_maps_end",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
