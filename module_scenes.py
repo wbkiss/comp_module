@@ -1211,7 +1211,7 @@ scenes = [
   ("random_multi_steppe_large", sf_generate|sf_randomize|sf_auto_entry_points, "none", "none", (0,0),(100, 100), -0.5, "0x000000012a00d8630009fe7f0004406900002920001e4f81",
     [],[], "outer_terrain_steppe"),
     
-  #CoMP - Begin
+  #ENL - Begin
   
   #ENL maps
   
@@ -1227,7 +1227,6 @@ scenes = [
     [],[],"outer_terrain_plain"),
   ("multi_scene_enl_snowyhamlet",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001400389800003a4ea000058340000637a0000399b",
     [],[],"outer_terrain_snow"),
-  
   # CoMP Stable
   ("multi_scene_solace",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
       [],[],"outer_terrain_plain"), # Solace (mixed) by Romans
@@ -1265,6 +1264,10 @@ scenes = [
       [],[],"outer_terrain_plain"), # Quamire (Open) by Madoc Comadrin
   ("multi_scene_candleroot_hills",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
       [],[],"outer_terrain_plain"), #Candleroot Hills (Open) by Mr. X
+  ("multi_scene_lake_fort",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300322930006c5b1000005ad000056ed00002787",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_the_farm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000030024eb20006759d00005ede0000758a000048b4",
+    [],[],"outer_terrain_plain"),
   	
   #Waiting/Needs Work
   ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",
@@ -1275,7 +1278,51 @@ scenes = [
       [],[], "outer_terrain_steppe"), # The Wold (open) by Sotamursu
   ("multi_scene_old_rhodok_stronghold",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b000182a000408fe0000666d00007db9000015ee",
       [],[], "outer_terrain_plain"), # Old Rhodok Stronghold (closed) by Erminas
-  #CoMP-end
+  #CoMP-end  
+  # Custom maps
+    
+  ("multi_scene_custom_1",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_2",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_3",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_4",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_5",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_6",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_7",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_8",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_9",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_10",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_11",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_12",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_13",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_14",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_15",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_16",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_17",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_18",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_19",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_custom_20",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  
+  #ENL - End
 
   ("multiplayer_maps_end",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
     [],[],"outer_terrain_plain"),

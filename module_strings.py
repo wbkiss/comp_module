@@ -2418,8 +2418,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_13", "Random Plains (Large)"),
   ("multi_scene_14", "Random Steppe (Medium)"),
   ("multi_scene_15", "Random Steppe (Large)"),
-  #CoMP - Begin
-  # ENL maps
+  #ENL - Begin
   ("multi_scene_enl_dijon", "Dijon"),
   ("multi_scene_enl_sandiboush", "San'di'boush"),
   ("multi_scene_enl_vendetta", "Vendetta"),
@@ -2446,12 +2445,14 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_river_valley", "River Valley (Mixed, Unstable) by Vendigr"),
   ("multi_scene_quagmire", "Quagmire (Open, Unstable) by Madoc Comadrin"),
   ("multi_scene_candleroot_hills", "Candleroot Hills (Open, Unstable) by Mr.X"),
+  ("multi_scene_lake_fort", "Lake Fort (Mixed, Unstable) by Erminas"),
+  ("multi_scene_the_farm",  "The Farm (Open, Unstable) by Romans"),
   # Waiting
   ("multi_scene_swamp", "Swamp (Open, Waiting) by KissMyAxe"),
   ("multi_scene_haranaer", "Haranaer (Open, Waiting) by Sotamursu"),
   ("multi_scene_wold", "The Wold (Open, Waiting) by Sotamursu"),
   ("multi_scene_old_rhodok_stronghold", "Old Rhodok Stronghold (Closed, Waiting) by Erminas"),
-   # Custom maps
+   #Comp End
   ("multi_scene_custom_1", "Custom_Map_1"),
   ("multi_scene_custom_2", "Custom_Map_2"),
   ("multi_scene_custom_3", "Custom_Map_3"),
@@ -4141,7 +4142,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("a_duel_between_you_and_s0_will_start_in_3_seconds", "A duel between you and {s0} will start in 3 seconds."),
   ("you_have_lost_a_duel", "You have lost a duel."),
   ("you_have_won_a_duel", "You have won a duel!"),
-  ("server_s0", "[SERVER]: {s0}"),
+  ("server_s0", "[!]: {s0}"),
   ("disallow_ranged_weapons", "Disallow ranged weapons"),
   ("ranged_weapons_are_disallowed", "Ranged weapons are disallowed."),
   ("ranged_weapons_are_allowed", "Ranged weapons are allowed."),
