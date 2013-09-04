@@ -13169,13 +13169,14 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_candleroot_hills"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_lake_fort"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_the_farm"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_dreiecksdorf"),
 		# Waiting
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_haranaer"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_wold"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_old_rhodok_stronghold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_haranaer"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_wold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 44, "scn_multi_scene_old_rhodok_stronghold"),
         #CoMP - End
-        (assign, ":num_maps", 44), #CoMP
+        (assign, ":num_maps", 45), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_battle),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13194,8 +13195,8 @@ scripts = [
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 13, "scn_random_multi_plain_large"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 14, "scn_random_multi_steppe_medium"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 15, "scn_random_multi_steppe_large"),
-        # CoMP - Begin
-		# ENL maps
+       # CoMP - Begin
+		 # ENL maps
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 16, "scn_multi_scene_enl_dijon"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 17, "scn_multi_scene_enl_sandiboush"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 18, "scn_multi_scene_enl_vendetta"),
@@ -13224,13 +13225,14 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_candleroot_hills"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_lake_fort"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_the_farm"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_dreiecksdorf"),
 		# Waiting
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_haranaer"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_wold"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_old_rhodok_stronghold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_haranaer"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_wold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 44, "scn_multi_scene_old_rhodok_stronghold"),
         #CoMP - End
-        (assign, ":num_maps", 44), #CoMP
+        (assign, ":num_maps", 45), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_destroy),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13243,7 +13245,7 @@ scripts = [
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 7, "scn_multi_scene_19"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 8, "scn_multi_scene_20"),
 		# CoMP - Begin
-		# ENL maps
+		 # ENL maps
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 16, "scn_multi_scene_enl_dijon"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 17, "scn_multi_scene_enl_sandiboush"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 18, "scn_multi_scene_enl_vendetta"),
@@ -13272,13 +13274,14 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_candleroot_hills"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_lake_fort"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_the_farm"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_dreiecksdorf"),
 		# Waiting
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_haranaer"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_wold"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_old_rhodok_stronghold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_haranaer"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_wold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 44, "scn_multi_scene_old_rhodok_stronghold"),
         #CoMP - End
-        (assign, ":num_maps", 44), #CoMP
+        (assign, ":num_maps", 45), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_capture_the_flag),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13298,7 +13301,7 @@ scripts = [
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 14, "scn_random_multi_steppe_medium"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 15, "scn_random_multi_steppe_large"),
 		# CoMP - Begin
-		# ENL maps
+		 # ENL maps
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 16, "scn_multi_scene_enl_dijon"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 17, "scn_multi_scene_enl_sandiboush"),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 18, "scn_multi_scene_enl_vendetta"),
@@ -13327,13 +13330,14 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 37, "scn_multi_scene_candleroot_hills"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 38, "scn_multi_scene_lake_fort"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 39, "scn_multi_scene_the_farm"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_dreiecksdorf"),
 		# Waiting
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 40, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_haranaer"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_wold"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_old_rhodok_stronghold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 41, "scn_multi_scene_swamp"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 42, "scn_multi_scene_haranaer"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_wold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 44, "scn_multi_scene_old_rhodok_stronghold"),
         #CoMP - End
-        (assign, ":num_maps", 44), #CoMP
+        (assign, ":num_maps", 45), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_headquarters),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),

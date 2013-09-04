@@ -12038,15 +12038,21 @@ mission_templates = [
       #checking during "death mode part 1" for entering "death mode part 2"
       (1, 0, 0, [(multiplayer_is_server),
                  (eq, "$g_round_ended", 0),
-                 (eq, "$g_battle_death_mode_started", 1),
-                 (store_mission_timer_a, ":seconds_past_till_death_mode_part_1_started"),
-                 (val_sub, ":seconds_past_till_death_mode_part_1_started", "$g_death_mode_part_1_start_time"),
-                 (store_add, ":g_battle_waiting_seconds_plus_reduced_waiting_seconds", "$g_battle_waiting_seconds", "$g_reduced_waiting_seconds"),
-                 (ge, ":seconds_past_till_death_mode_part_1_started", ":g_battle_waiting_seconds_plus_reduced_waiting_seconds"), #death mod start if anybody did not dies in "$g_battle_waiting_seconds" seconds
-                 (store_mission_timer_a, ":current_time"),
-                 (store_sub, ":seconds_past_in_round", ":current_time", "$g_round_start_time"),
-                 (store_sub, ":g_multiplayer_round_max_seconds_sub_15", "$g_multiplayer_round_max_seconds", 15),
-                 (lt, ":seconds_past_in_round", ":g_multiplayer_round_max_seconds_sub_15")], #death mod cannot start at last 15 seconds
+                 #(eq, "$g_battle_death_mode_started", 1), 
+                 #(store_mission_timer_a, ":seconds_past_till_death_mode_part_1_started"),
+                 #(val_sub, ":seconds_past_till_death_mode_part_1_started", "$g_death_mode_part_1_start_time"),
+                 #(store_add, ":g_battle_waiting_seconds_plus_reduced_waiting_seconds", "$g_battle_waiting_seconds", "$g_reduced_waiting_seconds"),
+                 #(ge, ":seconds_past_till_death_mode_part_1_started", ":g_battle_waiting_seconds_plus_reduced_waiting_seconds"), #death mod start if anybody did not dies in "$g_battle_waiting_seconds" seconds
+                 #(store_mission_timer_a, ":current_time"),
+                 #(store_sub, ":seconds_past_in_round", ":current_time", "$g_round_start_time"),
+                 #(store_sub, ":g_multiplayer_round_max_seconds_sub_15", "$g_multiplayer_round_max_seconds", 15),
+                 #(lt, ":seconds_past_in_round", ":g_multiplayer_round_max_seconds_sub_15")], #death mod cannot start at last 15 seconds
+				 #2MinMaster Begin
+				 (neq, "$g_battle_death_mode_started", 2),
+				 (store_mission_timer_a, ":timer"),
+				 (val_sub, ":timer", "$g_round_start_time"),
+				 (store_sub, ":current_time", "$g_multiplayer_round_max_seconds", ":timer"),
+				 (le, ":current_time", 120)],
        [
          (assign, "$g_battle_death_mode_started", 2),
          #for only server itself-----------------------------------------------------------------------------------------------
