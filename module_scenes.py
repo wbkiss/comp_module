@@ -1270,6 +1270,8 @@ scenes = [
     [],[],"outer_terrain_plain"), #The Farm (Open) by Romans
   ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",
     [],[],"outer_terrain_plain"), #Dreiecksdorf (Closed) by Madoc
+  ("multi_scene_sally_out",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300001020004fd40000041ef00005ae800003c55",
+    [],[],"outer_terrain_plain"),
   	
   #Waiting/Needs Work
   ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",
