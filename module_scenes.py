@@ -1250,7 +1250,7 @@ scenes = [
       [],[], "outer_terrain_beach"), # Liberty (mixed/closed) by Romans
   ("multi_scene_urabhaya",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000005000d795000350d4000011a4000017ee0000440d",
       [],[], "outer_terrain_plain"), # Urabhaya (closed) by Sotamursu
-  ("multi_scene_rock_port",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000032224e0a800435130000794a0000305500001978",
+  ("multi_scene_rock_port",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000230024e0a800435130000794a0000305500001978",
       [],[], "outer_terrain_plain"), # Rock Port (mixed) by Romans
   	
   # CoMP Unstable
@@ -1266,7 +1266,7 @@ scenes = [
       [],[],"outer_terrain_plain"), #Candleroot Hills (Open) by Mr. X
   ("multi_scene_lake_fort",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300322930006c5b1000005ad000056ed00002787",
     [],[],"outer_terrain_plain"), #Lake Fort (Mixed) by Erminas
-  ("multi_scene_the_farm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000030024eb20006759d00005ede0000758a000048b4",
+  ("multi_scene_the_farm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000033000053d000735cd00001e2100004c8e000039a9",
     [],[],"outer_terrain_plain"), #The Farm (Open) by Romans
   ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",
     [],[],"outer_terrain_plain"), #Dreiecksdorf (Closed) by Madoc
