@@ -1274,6 +1274,8 @@ scenes = [
     [],[],"outer_terrain_plain"),
   ("multi_scene_suddenly",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000345044a9d00036cdf00005a8f0000538d00003871",
     [],[],"outer_terrain_snow"),
+  ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",
+    [],[],"outer_terrain_beach"),
 
   #Waiting/Needs Work
   ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",

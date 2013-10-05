@@ -2450,6 +2450,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_dreiecksdorf",  "Dreiecksdorf (Closed, Unstable) by Madoc"),
   ("multi_scene_sally_out",  "Sally Out (Open, Unstable) by Madoc"),
   ("multi_scene_suddenly", "Suddenly (Open, Unstable) by Romans"),
+  ("multi_scene_incursion", "Incursion (Open, Unstable) by Zaffa"),
   # Waiting
   ("multi_scene_swamp", "Swamp (Open, Waiting) by KissMyAxe"),
   ("multi_scene_haranaer", "Haranaer (Open, Waiting) by Sotamursu"),
