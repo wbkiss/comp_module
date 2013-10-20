@@ -1242,8 +1242,6 @@ scenes = [
       [],[],"outer_terrain_desert"), # Oasis (open) by Fehnor
   ("multi_scene_snoops_exile_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000006f5bd00004ff5000004000000631b",
       [],[], "outer_terrain_plain"), # Snoop's Exile Island (mixed) by Slytacular and Zaffa
-  ("multi_scene_low_born",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003000d732000350e4000047ce00004ba700005d54",
-      [],[], "outer_terrain_plain"), # Low Born (closed) by Romans
   ("multi_scene_shariz_village",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003165588c0004c92d0000538c000052de000043b4",
       [],[], "outer_terrain_steppe"), # Shariz Village (closed) by Maynd
   ("multi_scene_liberty",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b0000500000350d600005d4600003c3100006cf6",
@@ -1272,10 +1270,10 @@ scenes = [
     [],[],"outer_terrain_plain"), #Dreiecksdorf (Closed) by Madoc
   ("multi_scene_sally_out",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300001020004fd40000041ef00005ae800003c55",
     [],[],"outer_terrain_plain"),
-  ("multi_scene_suddenly",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000345044a9d00036cdf00005a8f0000538d00003871",
-    [],[],"outer_terrain_snow"),
   ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",
     [],[],"outer_terrain_beach"),
+  ("multi_scene_rhodok_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",
+    [],[],"outer_terrain_plain"),
 
   #Waiting/Needs Work
   ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",
