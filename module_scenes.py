@@ -1274,6 +1274,13 @@ scenes = [
     [],[],"outer_terrain_beach"),
   ("multi_scene_rhodok_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",
     [],[],"outer_terrain_plain"),
+  ("multi_scene_agrabah", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300659630003c8f300003ca000006a8900003c89",
+    [],[]," outer_terrain_desert"),
+  ("multi_scene_new_port_assault", sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84 ",
+    [],[]," outer_terrain_beach"),
+  ("multi_scene_6_redux", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000002300494b200048524000059e80000453300001d32",
+    [],[]," outer_terrain_plain"),
+  
 
   #Waiting/Needs Work
   ("multi_scene_swamp",sf_generate|sf_muddy_water,"none", "none", (0,0),(240,240), 0.0,"0x00000005300002840005795e0000bf0b000070a20000d9ae",

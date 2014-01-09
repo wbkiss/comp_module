@@ -2450,6 +2450,10 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_sally_out",  "Sally Out (Open, Unstable) by Madoc"),
   ("multi_scene_incursion", "Incursion (Open, Unstable) by Zaffa"),
   ("multi_scene_rhodok_town",  "Rhodok Town (Closed, Unstable) by Madoc"),
+  ("multi_scene_agrabah", "Agrabah by Zaffa (Closed, Unstable)"),
+  ("multi_scene_new_port_assault", "New Port Assault by Erminas (Closed, Unstable)"),
+  ("multi_scene_6_redux", "Scene 6 Redux by Romans (Mixed, Unstable)"),
+  
   # Waiting
   ("multi_scene_swamp", "Swamp (Open, Waiting) by KissMyAxe"),
   ("multi_scene_haranaer", "Haranaer (Open, Waiting) by Sotamursu"),
