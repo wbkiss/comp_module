@@ -13175,14 +13175,11 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_agrabah"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 44, "scn_multi_scene_new_port_assault"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 45, "scn_multi_scene_6_redux"),
-		
-		# Waiting
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 46, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 47, "scn_multi_scene_haranaer"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 48, "scn_multi_scene_wold"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 49, "scn_multi_scene_old_rhodok_stronghold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 46, "scn_multi_scene_ruins_rebuilt"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 47, "scn_multi_scene_sea_raiders_landing"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 48, "scn_multi_scene_the_cage"),
         #CoMP - End
-        (assign, ":num_maps", 50), #CoMP
+        (assign, ":num_maps", 49), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_battle),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13237,14 +13234,11 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_agrabah"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 44, "scn_multi_scene_new_port_assault"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 45, "scn_multi_scene_6_redux"),
-		
-		# Waiting
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 46, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 47, "scn_multi_scene_haranaer"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 48, "scn_multi_scene_wold"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 49, "scn_multi_scene_old_rhodok_stronghold"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 46, "scn_multi_scene_ruins_rebuilt"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 47, "scn_multi_scene_sea_raiders_landing"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 48, "scn_multi_scene_the_cage"),
         #CoMP - End
-        (assign, ":num_maps", 50), #CoMP
+        (assign, ":num_maps", 49), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_capture_the_flag),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
@@ -13299,14 +13293,11 @@ scripts = [
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 43, "scn_multi_scene_agrabah"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 44, "scn_multi_scene_new_port_assault"),
 		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 45, "scn_multi_scene_6_redux"),
-		
-		# Waiting
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 46, "scn_multi_scene_swamp"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 47, "scn_multi_scene_haranaer"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 48, "scn_multi_scene_wold"),
-		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 49, "scn_multi_scene_old_rhodok_stronghold"),
+        (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 46, "scn_multi_scene_ruins_rebuilt"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 47, "scn_multi_scene_sea_raiders_landing"),
+		(troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin + 48, "scn_multi_scene_the_cage"),
         #CoMP - End
-        (assign, ":num_maps", 50), #CoMP
+        (assign, ":num_maps", 49), #CoMP
       (else_try),
         (eq, ":game_type", multiplayer_game_type_headquarters),
         (troop_set_slot, "trp_multiplayer_data", multi_data_maps_for_game_type_begin, "scn_multi_scene_1"),
