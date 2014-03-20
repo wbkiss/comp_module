@@ -2446,7 +2446,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_dreiecksdorf",  "Dreiecksdorf by Madoc"),
   ("multi_scene_sally_out",  "Sally Out by Madoc"),
   ("multi_scene_incursion", "Incursion by Zaffa"),
-  ("multi_scene_rhodok_town",  "Rhodok Town by Madoc"),
+  ("multi_scene_swadian_town",  "Swadian Town by Madoc"),
   ("multi_scene_agrabah", "Agrabah by Zaffa"),
   ("multi_scene_new_port_assault", "New Port Assault by Erminas"),
   ("multi_scene_6_redux", "Scene 6 Redux by Romans"),

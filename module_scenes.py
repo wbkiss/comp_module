@@ -1269,7 +1269,7 @@ scenes = [
     [],[],"outer_terrain_plain"),
   ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",
     [],[],"outer_terrain_beach"),
-  ("multi_scene_rhodok_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",
+  ("multi_scene_swadian_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",
     [],[],"outer_terrain_plain"),
   ("multi_scene_agrabah", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300659630003c8f300003ca000006a8900003c89",
     [],[]," outer_terrain_desert"),
