@@ -1283,6 +1283,8 @@ scenes = [
     [],[],"outer_terrain_beach"),
   ("multi_scene_the_cage",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000002200005000005f57b00005885000046bd00006d9c",
     [],[],"outer_terrain_plain"),
+  ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",
+    [],[],"outer_terrain_steppe"),
   
   #CoMP-end  
   # Custom maps

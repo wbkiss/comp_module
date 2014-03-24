@@ -2453,6 +2453,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_ruins_rebuilt", "Ruins Rebuilt by Erminas"),
   ("multi_scene_sea_raiders_landing", "Sea Raiders' Landing by Madoc"),
   ("multi_scene_the_cage", "The Cage by Madoc"),
+  ("multi_scene_back_to_back", "Back to Back by Madoc"),
   
    #Comp End
   ("multi_scene_custom_1", "Custom_Map_1"),
