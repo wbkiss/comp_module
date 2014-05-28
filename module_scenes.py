@@ -1229,63 +1229,33 @@ scenes = [
     [],[],"outer_terrain_snow"),
   
   # CoMP
-  ("multi_scene_solace",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-      [],[],"outer_terrain_plain"), # Solace by Romans
-  ("multi_scene_dry_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000450000500000591660000431900001af3000077e3",
-      [],[],"outer_terrain_desert"), # Dry Valley by Lord Rich (AZAN)
-  ("multi_scene_verloren",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-      [],[],"outer_terrain_plain"),
-  ("multi_scene_open_plain",sf_generate,"none", "none", (0,0),(240,240),-0.5,"0x0000000130000000000641900000bf4a00001d670000d869",
-      [],[], "outer_terrain_plain"), # Open Plain (open) by KissMyAxe
-  ("multi_scene_oasis",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001d00a9cba000651940000cf3f0000818300001f20",
-      [],[],"outer_terrain_desert"), # Oasis (open) by Fehnor
-  ("multi_scene_snoops_exile_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000006f5bd00004ff5000004000000631b",
-      [],[], "outer_terrain_plain"), # Snoop's Exile Island (mixed) by Slytacular and Zaffa
-  ("multi_scene_shariz_village",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000003165588c0004c92d0000538c000052de000043b4",
-      [],[], "outer_terrain_steppe"), # Shariz Village (closed) by Maynd
-  ("multi_scene_liberty",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b0000500000350d600005d4600003c3100006cf6",
-      [],[], "outer_terrain_beach"), # Liberty (mixed/closed) by Romans
-  ("multi_scene_urabhaya",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000005000d795000350d4000011a4000017ee0000440d",
-      [],[], "outer_terrain_plain"), # Urabhaya (closed) by Sotamursu
-  ("multi_scene_rock_port",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000230024e0a800435130000794a0000305500001978",
-      [],[], "outer_terrain_beach"), # Rock Port (mixed) by Romans
-  ("multi_scene_quagmire",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005000003d8f200007f6d00000fcf00004a0a",
-      [],[],"outer_terrain_plain"), # Quamire (Open) by Madoc
-  ("multi_scene_the_farm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000033000053d000735cd00001e2100004c8e000039a9",
-    [],[],"outer_terrain_plain"), #The Farm (Open) by Romans
-  ("multi_scene_delta",sf_generate,"none", "none", (0,0), (240,240),-0.5,"0x0000000130000285000641900000793b0000104d0000fb64",
-      [],[],"outer_terrain_beach"), 
-  ("multi_scene_abbey",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000a002191b0006a5a5000071310000576d00002a84",
-      [],[], "outer_terrain_steppe"),
-  ("multi_scene_river_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300c93c800033cce000020d5000065c70000071b",
-      [],[], "outer_terrain_plain"), 
-  ("multi_scene_candleroot_hills",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-      [],[],"outer_terrain_plain"),
-  ("multi_scene_lake_fort",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300322930006c5b1000005ad000056ed00002787",
-    [],[],"outer_terrain_plain"), 
-  ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",
-    [],[],"outer_terrain_plain"), 
-  ("multi_scene_sally_out",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300001020004fd40000041ef00005ae800003c55",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",
-    [],[],"outer_terrain_beach"),
-  ("multi_scene_swadian_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_agrabah", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300659630003c8f300003ca000006a8900003c89",
-    [],[]," outer_terrain_desert"),
-  ("multi_scene_new_port_assault", sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84 ",
-    [],[]," outer_terrain_beach"),
-  ("multi_scene_6_redux", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000002300494b200048524000059e80000453300001d32",
-    [],[]," outer_terrain_plain"),
-  ("multi_scene_ruins_rebuilt", sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
-    [],[]," outer_terrain_plain"),
-  ("multi_scene_sea_raiders_landing",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000130000a09400649920004406900002920000056d7",
-    [],[],"outer_terrain_beach"),
-  ("multi_scene_the_cage",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000002200005000005f57b00005885000046bd00006d9c",
-    [],[],"outer_terrain_plain"),
-  ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",
-    [],[],"outer_terrain_steppe"),
-  
+  ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",[],[],"outer_terrain_steppe"), #MadocComadrin
+  ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",[],[],"outer_terrain_plain"), #MadocComadrin
+  ("multi_scene_forest_road",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005004004d53300007f6d00000fcf00004a0a",[],[],"outer_terrain_plain"), #MadocComadrin
+  ("multi_scene_heisenburg",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300659630003c8f300003ca000006a8900003c89",[],[],"sea_outer_terrain_2"), #HG
+  ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",[],[],"outer_terrain_beach"), #Zaffa
+  ("multi_scene_liberty",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b0000500000350d600005d4600003c3100006cf6",[],[],"outer_terrain_beach"), #Romans
+  ("multi_scene_new_nord_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000030015f2b000350d4000011a4000017ee000054af",[],[],"outer_terrain_plain"), #MadocComadrin
+  ("multi_scene_new_port_assault",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",[],[],"outer_terrain_beach"), #Erminas
+  ("multi_scene_open_plain",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000130000000000641900000bf4a00001d670000d869",[],[],"outer_terrain_plain"), #KissMyAxe
+  ("multi_scene_quagmire",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005000003d8f200007f6d00000fcf00004a0a",[],[],"outer_terrain_plain"), #MadocComadrin
+  ("multi_scene_rock_port",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000230024e0a800435130000794a0000305500001978",[],[],"outer_terrain_beach"), #Romans
+  ("multi_scene_ruins_rebuilt",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",[],[],"outer_terrain_plain"), #Erminas
+  ("multi_scene_solace",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",[],[],"outer_terrain_plain"), #Romans
+  ("multi_scene_swadian_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",[],[],"outer_terrain_plain"), #MadocComadrin
+  ("multi_scene_the_farm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000033000053d000735cd00001e2100004c8e000039a9",[],[],"outer_terrain_plain"), #Romans
+  ("multi_scene_verloren",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",[],[],"outer_terrain_plain"), #Lord Rich
+  ("multi_scene_glitteron_temple_summit",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000005007b2630003b8f7000055f70000353700004892",[],[],"sea_outer_terrain_2"), #TGD_Direct
+  ("multi_scene_nord_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000030015f2b000350d4000011a4000017ee000054af",[],[],"outer_terrain_plain"), #TGD_Direct
+  ("multi_scene_pokonji_dol_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000033a7946000028ca300007f4a0000479400161992",[],[],"sea_outer_terrain_2"), #Bloody Mary
+  ("multi_scene_ramses_realm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000075006c5000002dd560000088f000020c200004231",[],[],"outer_terrain_desert"), #Spec
+  ("multi_scene_skada_arena",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000002200005000005f57b00005885000046bd00006d9c",[],[],"outer_terrain_plain"), #TGD_Direct
+  ("multi_scene_skodja_clearing",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b00037630002308c00000c9400005d4c00000f3a",[],[],"outer_terrain_plain"), #TGD_Direct
+  ("multi_scene_the_cage",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000002200005000005f57b00005885000046bd00006d9c",[],[],"outer_terrain_plain"), #MadocComadrin
+  ("multi_scene_the_hall",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000500005000004210b0000511500003d400000093c",[],[],"outer_terrain_desert"), #Snake
+  ("multi_scene_tower_on_the_hill",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",[],[],"outer_terrain_plain"), #Spec
+  ("multi_scene_verovicium_army_camp",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005000004ed39000058340000637a0000399b",[],[],"outer_terrain_plain"), #TGD_Direct
+
   #CoMP-end  
   # Custom maps
     
