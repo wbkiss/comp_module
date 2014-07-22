@@ -2431,6 +2431,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_forest_road", "Forest Road by MadocComadrin"),
   ("multi_scene_heisenburg", "Heisenburg by HG"),
   ("multi_scene_incursion", "Incursion by Zaffa"),
+  ("multi_scene_ismirala", "Ismirala by MadocComadrin"),
   ("multi_scene_liberty", "Liberty by Romans"),
   ("multi_scene_new_nord_town", "New Nord Town by MadocComadrin"),
   ("multi_scene_new_port_assault", "New Port Assault by Erminas"),

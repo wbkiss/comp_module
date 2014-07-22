@@ -1229,11 +1229,12 @@ scenes = [
     [],[],"outer_terrain_snow"),
   
   # CoMP
-  ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",[],[],"outer_terrain_steppe"), #MadocComadrin
+    ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",[],[],"outer_terrain_steppe"), #MadocComadrin
   ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",[],[],"outer_terrain_plain"), #MadocComadrin
   ("multi_scene_forest_road",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005004004d53300007f6d00000fcf00004a0a",[],[],"outer_terrain_plain"), #MadocComadrin
   ("multi_scene_heisenburg",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300659630003c8f300003ca000006a8900003c89",[],[],"sea_outer_terrain_2"), #HG
   ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",[],[],"outer_terrain_beach"), #Zaffa
+  ("multi_scene_ismirala",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001c00389804003e0f4000058340000637a0000399b",[],[],"outer_terrain_snow"), #MadocComadrin
   ("multi_scene_liberty",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000b0000500000350d600005d4600003c3100006cf6",[],[],"outer_terrain_beach"), #Romans
   ("multi_scene_new_nord_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000030015f2b000350d4000011a4000017ee000054af",[],[],"outer_terrain_plain"), #MadocComadrin
   ("multi_scene_new_port_assault",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",[],[],"outer_terrain_beach"), #Erminas
