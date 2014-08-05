@@ -1227,11 +1227,18 @@ scenes = [
     [],[],"outer_terrain_plain"),
   ("multi_scene_enl_snowyhamlet",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001400389800003a4ea000058340000637a0000399b",
     [],[],"outer_terrain_snow"),
+  ("multi_scene_mountain_fortress",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+  ("multi_scene_fort_of_honour" ,sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",
+    [],[],"outer_terrain_plain"),
+	
   
   # CoMP
-    ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",[],[],"outer_terrain_steppe"), #MadocComadrin
+  ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",[],[],"outer_terrain_steppe"), #MadocComadrin
+  ("multi_scene_desolation_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000004b52d0000764a0000194e00005ce3",[],[],"outer_terrain_plain"), #Lord Rich
   ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",[],[],"outer_terrain_plain"), #MadocComadrin
   ("multi_scene_forest_road",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005004004d53300007f6d00000fcf00004a0a",[],[],"outer_terrain_plain"), #MadocComadrin
+  ("multi_scene_goldrush",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000014000050000048d22000058340000637a0000399b",[],[],"sea_outer_terrain_2"), #Lord Rich
   ("multi_scene_heisenburg",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300659630003c8f300003ca000006a8900003c89",[],[],"sea_outer_terrain_2"), #HG
   ("multi_scene_incursion",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013003d7e30005053f00003b4e0000146300006e84",[],[],"outer_terrain_beach"), #Zaffa
   ("multi_scene_ismirala",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001c00389804003e0f4000058340000637a0000399b",[],[],"outer_terrain_snow"), #MadocComadrin
@@ -1243,6 +1250,7 @@ scenes = [
   ("multi_scene_rock_port",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000230024e0a800435130000794a0000305500001978",[],[],"outer_terrain_beach"), #Romans
   ("multi_scene_ruins_rebuilt",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",[],[],"outer_terrain_plain"), #Erminas
   ("multi_scene_solace",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",[],[],"outer_terrain_plain"), #Romans
+  ("multi_scene_stronghold",sf_generate,"none", "none", (0,0),(100,100),-100,"0x0000000030015f2b000350d4000011a4000017ee000054af",[],[],"outer_terrain_plain"), #Lord Rich
   ("multi_scene_swadian_town",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300000000003c4f0000041ef00005ae800003c55",[],[],"outer_terrain_plain"), #MadocComadrin
   ("multi_scene_the_farm",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000033000053d000735cd00001e2100004c8e000039a9",[],[],"outer_terrain_plain"), #Romans
   ("multi_scene_verloren",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300389800003a4ea000058340000637a0000399b",[],[],"outer_terrain_plain"), #Lord Rich
