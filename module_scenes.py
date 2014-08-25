@@ -1235,6 +1235,7 @@ scenes = [
   
   # CoMP
   ("multi_scene_back_to_back",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000001300005004005fd84000011c60000285b00005cbe",[],[],"outer_terrain_steppe"), #MadocComadrin
+  ("multi_scene_crescent_island",sf_generate,"none", "none", (0,0),(100,100),-100,"0x000000013000050040041904000058340000637a0000399b",[],[],"sea_outer_terrain_2"), #MadocComadrin
   ("multi_scene_desolation_valley",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300005000004b52d0000764a0000194e00005ce3",[],[],"outer_terrain_plain"), #Lord Rich
   ("multi_scene_dreiecksdorf",sf_generate,"none", "none", (0,0),(100,100),-100,"0x00000000300000000005ad68000041ef00005ae800003c55",[],[],"outer_terrain_plain"), #MadocComadrin
   ("multi_scene_forest_road",sf_generate|sf_muddy_water,"none", "none", (0,0),(100,100),-100,"0x00000000b00005004004d53300007f6d00000fcf00004a0a",[],[],"outer_terrain_plain"), #MadocComadrin

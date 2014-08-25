@@ -2429,6 +2429,7 @@ We apologize sincerely if you contributed your suggestions and feedback but were
   ("multi_scene_fort_of_honour", "Fort of Honour WNL"),
   # CoMP maps
   ("multi_scene_back_to_back", "Back to Back by MadocComadrin"),
+  ("multi_scene_crescent_island", "Crescent Island by MadocComadrin"),
   ("multi_scene_desolation_valley", "Desolation Valley by Lord Rich"),
   ("multi_scene_dreiecksdorf", "Dreiecksdorf by MadocComadrin"),
   ("multi_scene_forest_road", "Forest Road by MadocComadrin"),
